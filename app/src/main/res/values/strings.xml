@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Календарь</string>
+    <string name="today">Сегодня</string>
+
+    <string name="note_label">Заметка на день</string>
+    <string name="note_hint">Что важно в этот день…</string>
+    <string name="save_note">Сохранить заметку</string>
+    <string name="note_saved">Заметка сохранена</string>
+
+    <string name="events_label">События</string>
+    <string name="no_events">Событий нет. Нажмите «Событие», чтобы добавить.</string>
+    <string name="add_event">Событие</string>
+    <string name="new_event">Новое событие</string>
+    <string name="edit_event">Редактировать событие</string>
+    <string name="title_hint">Название</string>
+    <string name="desc_hint">Описание</string>
+    <string name="no_time">Время: не задано</string>
+    <string name="time_fmt">Время: %1$s</string>
+    <string name="clear_time">Сбросить</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete">Удалить</string>
+    <string name="title_required">Введите название</string>
+
+    <string name="widget_description">Заметка и события на сегодня</string>
+    <string name="widget_no_note">Заметки на сегодня нет — нажмите, чтобы добавить</string>
+    <string name="widget_no_events">Событий на сегодня нет</string>
+    <string name="widget_more">и ещё %1$d</string>
+</resources>

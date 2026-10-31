@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Цвета виджета для Android 8–11; на Android 12+ берутся из values-v31 (Material You) -->
+    <color name="widget_bg">#F6F4FB</color>
+    <color name="widget_note_bg">#E3E5FF</color>
+    <color name="widget_accent">#4355B9</color>
+    <color name="widget_text">#1B1B21</color>
+    <color name="widget_text_secondary">#5B5D72</color>
+</resources>
